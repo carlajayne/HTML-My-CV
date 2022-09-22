@@ -1,0 +1,16 @@
+body {
+    background-color: #F5EFE6;
+}
+h1 {
+    color: #7895B2;
+}
+
+h3{
+    color:#AEBDCA;
+}
+hr{
+    border: none;
+    border-top: 5px dotted grey;
+    border-width: 5px;
+    width: 3%
+}
